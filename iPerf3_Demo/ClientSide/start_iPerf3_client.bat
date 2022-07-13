@@ -1,5 +1,5 @@
 @echo off
-chcp 65001　＞ NUL
+chcp 65001 > NUL
 
 start /I /MIN powershell -ExecutionPolicy RemoteSigned -File ./iPerf3_clnt_1.ps1
 
