@@ -7,7 +7,7 @@
 
 This is the project for demonstrating the performance of Local 5G solution. 
 There are two directories for Client side and Server side. Please download and place those on the proper folder of the testing laptop.
-Demonstrator can easily start iPerf3 performance demo by one-clicking a batch file on both side.
+Demonstrator can easily start iPerf3 performance demo by one-clicking a batch file on both sides.
 
 
 Please check the location of two Applications, iPerf3 and tcpmon.exe. 
