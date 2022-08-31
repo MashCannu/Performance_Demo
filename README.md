@@ -14,9 +14,9 @@ Please check the location of two Applications, iPerf3 and tcpmon.exe.
 - **iPerf3.exe** should be on "C:\"Program Files"\iperf3\iperf3.exe"
 - **tcpmon.exe** should be on "C:\"Program Files\tcp monitor"\tcpmon.exe"
 
-```uml
+```plantuml
 iPerf3 client1 -> iPerf3 server1: Upstream
-iPerf3 Server2 <- iPerf3 client2: Downstream
+iPerf3 client2 <- iPerf3 Server2: Downstream
 ```
 
 ### Client Side
