@@ -19,7 +19,7 @@ iPerf3 client1 -> iPerf3 server1: Upstream
 iPerf3 Server2 <- iPerf3 client2: Downstream
 ```
 
-### Client Side:
+### Client Side
 
 | File | description |
 |-----|-------------|
@@ -30,7 +30,7 @@ iPerf3 Server2 <- iPerf3 client2: Downstream
 
 - dgwIpAddr text file will be generate to check the reachability to default gateway.
 
-### Server Side:
+### Server Side
 
 | File | description |
 |-----|-------------|
