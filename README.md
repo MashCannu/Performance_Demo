@@ -1,7 +1,13 @@
 ## PowerShell Script for the performance demo by iPerf3
 
+### Local 5G demo network
+
+![iperf_demo](https://user-images.githubusercontent.com/78691634/187582471-af8123d7-329a-4d2e-8828-188e9942ca68.png)
+
+
 This is the project for demonstrating the performance of Local 5G solution. 
-There are two directories for Client side and Server side. Please download those and place it on the proper folder on the testing laptop.
+There are two directories for Client side and Server side. Please download and place those on the proper folder of the testing laptop.
+Demonstrator can easily start iPerf3 performance demo by one-clicking a batch file on both side.
 
 
 Please check the location of two Applications, iPerf3 and tcpmon.exe. 
