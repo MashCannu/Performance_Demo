@@ -1,4 +1,4 @@
-## PowerShell Script for the performance demo by iPerf3
+## PowerShell Script for the performance test by iPerf3
 
 ### Local 5G demo network
 
