@@ -5,8 +5,8 @@ There are two directories for Client side and Server side. Please download those
 
 
 Please check the location of two Applications, iPerf3 and tcpmon.exe. 
-- **iPerf3.exe** should be in "C:\"Program Files"\iperf3\iperf3.exe"
-- **tcpmon.exe** should be in "C:\"Program Files\tcp monitor"\tcpmon.exe"
+- **iPerf3.exe** should be on "C:\"Program Files"\iperf3\iperf3.exe"
+- **tcpmon.exe** should be on "C:\"Program Files\tcp monitor"\tcpmon.exe"
 
 ```uml
 iPerf3 client -> iPerf3 server: Upstream
